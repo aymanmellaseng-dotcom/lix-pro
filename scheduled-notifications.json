@@ -1,0 +1,14 @@
+{
+  "timezone": "Africa/Casablanca",
+  "quantity": 2,
+  "notifications": [
+    {
+      "time": "09:00",
+      "message": "Morning: check today’s live channels in Lix Pro."
+    },
+    {
+      "time": "21:00",
+      "message": "Evening: don’t miss the night lineup in Lix Pro."
+    }
+  ]
+}
