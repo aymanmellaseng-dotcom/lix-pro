@@ -1,6 +1,6 @@
 {
   "timezone": "Africa/Casablanca",
-  "quantity": 2,
+  "quantity": 3,
   "notifications": [
     {
       "time": "09:00",
@@ -9,6 +9,11 @@
     {
       "time": "21:00",
       "message": "Evening: don’t miss the night lineup in Lix Pro."
+    },
+    {
+      "instant": true,
+      "id": "example-flash-once",
+      "message": "Instant-style: fires ~2s after the app fetches this JSON (once per id)."
     }
   ]
 }
